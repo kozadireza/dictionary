@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { wordDefinitionSearch } from "../utils/apiRequest";
 import "./App.css";
 import React from "react";
