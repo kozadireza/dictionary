@@ -1,5 +1,7 @@
 ### LexiFind — Discover the Meaning of Any Word
 
+[https://lexifind.netlify.app/]
+
 LexiFind is a web application that allows you to search for the meanings, phonetics, synonyms, and antonyms of any English word. Built with React and TypeScript, it provides a clean and user-friendly interface for exploring word definitions.
 
 ### Features
